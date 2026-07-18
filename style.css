@@ -1,3 +1,6 @@
-#title {font-size: 32px; color: blue; font-style: italic;}
-h2 {font-size: 24px; color: rgb(204, 255, 0); font-style: italic;}
-strong {color: green;font-style: italic;}
+#title {color: blue; font-size: 32px; font-style: italic;}
+.menu-link {color: darkred; text-decoration: none;}
+.section-title {color: purple; font-style: italic;}
+.label {color: green; font-style: italic;}
+.text {font-size: 18px;}
+.info-list {color: black;}
